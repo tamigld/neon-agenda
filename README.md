@@ -55,7 +55,17 @@ O NeonAgenda é um inovador aplicativo web de gerenciamento de tarefas que combi
 
 O projeto ainda está em desenvolvimento, acompanhe o meu progresso:
 
+### Web
 - [x] Homepage
+- [ ] Tela de login
+- [ ] Tela de cadastro
+- [ ] Área do usuário
+- [ ] Área do usuário - configurações
+- [ ] Área do usuário - alterar tema
+- [ ] Área do usuário - alterar imagem de fundo
+
+### Mobile
+- [ ] Homepage
 - [ ] Tela de login
 - [ ] Tela de cadastro
 - [ ] Área do usuário
