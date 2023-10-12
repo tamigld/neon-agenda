@@ -76,15 +76,15 @@ export default function Homepage(){
                             <img src="https://firebasestorage.googleapis.com/v0/b/neon-agenda.appspot.com/o/email.png?alt=media&token=4314f583-e318-45d0-abb0-9263cd5a14a7&_gl=1*1sdc0ty*_ga*OTkzMDE5MjQ4LjE2OTM2Nzk1Mjk.*_ga_CW55HF8NVT*MTY5NzA3ODU5Ni4yNy4xLjE2OTcwODA0MjAuNTEuMC4w" alt="Ícone e-mail" />
                             E-mail
                         </a>
-                        <a href="https://github.com/tamigld">
+                        <a href="https://github.com/tamigld" target="_blank">
                             <img src="https://firebasestorage.googleapis.com/v0/b/neon-agenda.appspot.com/o/github.png?alt=media&token=accd8a70-32cd-42a2-a270-53361d9d608b&_gl=1*867l76*_ga*OTkzMDE5MjQ4LjE2OTM2Nzk1Mjk.*_ga_CW55HF8NVT*MTY5NzA3ODU5Ni4yNy4xLjE2OTcwODA1MDIuNjAuMC4w" alt="Ícone Github" />
                             GitHub
                         </a>
-                        <a href="https://linktr.ee/tamigld">
+                        <a href="https://linktr.ee/tamigld" target="_blank">
                             <img src="https://firebasestorage.googleapis.com/v0/b/neon-agenda.appspot.com/o/linktree.png?alt=media&token=e05afd78-2677-4b65-9bf5-087b93f52576&_gl=1*1rb4xl2*_ga*OTkzMDE5MjQ4LjE2OTM2Nzk1Mjk.*_ga_CW55HF8NVT*MTY5NzA3ODU5Ni4yNy4xLjE2OTcwODA1MTYuNDYuMC4w" alt="Ícone Linktree" />
                             Linktree
                         </a>
-                        <a href="https://www.linkedin.com/in/thamires-galdino-alves-764380172/">
+                        <a href="https://www.linkedin.com/in/thamires-galdino-alves-764380172/" target="_blank">
                             <img src="https://firebasestorage.googleapis.com/v0/b/neon-agenda.appspot.com/o/linktree%20(1).png?alt=media&token=353f5ed2-f1a3-43b5-8c58-c133e61512eb&_gl=1*1smap68*_ga*OTkzMDE5MjQ4LjE2OTM2Nzk1Mjk.*_ga_CW55HF8NVT*MTY5NzA3ODU5Ni4yNy4xLjE2OTcwODA1MjYuMzYuMC4w" alt="Ícone Linkedin" />
                             Linkedin
                         </a>
