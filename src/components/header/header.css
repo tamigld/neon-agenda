@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: var(--montserrat);
+}
+
+:root{
+    --montserrat: 'Montserrat', sans serif;
+    --night: #0E0E0F;
+    --lavender: #EDE9F8;
+    --gradientePurple: linear-gradient(90deg, #A684F4 0%, #4C3B8B 100%);
+}
+
+header{
+    background-color: var(--night);
+    display: flex;
+    padding: 10px 50px;
+
+    justify-content: space-between;
+    align-items: center;
+}
+
+header>nav{
+    width: 30%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header>nav a{
+    color: var(--lavender);
+    text-decoration: none;
+}
+
+#linkLogin{
+    padding: 8px 49px;
+    border-radius: 50px;
+    background-image: var(--gradientePurple);
+}
