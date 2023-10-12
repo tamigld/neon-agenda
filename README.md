@@ -21,7 +21,11 @@
   </p>
 </p>
 
+<div align="center">
+  
 ![Contributors](https://img.shields.io/github/contributors/tamigld/neon-agenda?color=dark-green) ![Issues](https://img.shields.io/github/issues/tamigld/neon-agenda) 
+
+</div>
 
 # Sobre o projeto
 
