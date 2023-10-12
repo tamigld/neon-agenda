@@ -9,7 +9,7 @@
     color: var(--lavender);
 
     
-    background: linear-gradient(-45deg,rgba(213, 116, 255, 0.3), rgb(192, 82, 241, 0.3) ,rgba(83, 83, 209, 0.5), rgba(53, 53, 136, 0.5));
+    background: linear-gradient(-45deg,rgba(213, 116, 255, 0.3), rgb(192, 82, 241, 0.3) ,rgba(117, 83, 209, 0.2), rgba(75, 53, 136, 0.2));
     background-color: var(--night);
     background-size: 400% 400%;
     animation: gradient 10s ease infinite;
@@ -30,15 +30,17 @@
 }
 
 .homePrimeira>h1{
+    font-size: 40px;
     font-weight: 400;
 }
 
 .homePrimeira>img{
-    width: 500px;
+    width: 450px;
 }
 
 .homePrimeira>span{
-    opacity: 0.5;
+    opacity: 0.1;
+    font-size: 18px;
     font-weight: 300;
 }
 
