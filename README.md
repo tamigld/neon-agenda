@@ -47,13 +47,13 @@ O NeonAgenda é um inovador aplicativo web de gerenciamento de tarefas que combi
 <p> Localize rapidamente tarefas específicas com nossa funcionalidade de pesquisa e filtros intuitivos!</p>
 
 <h4>🖌 Customização </h4>
-<p> Customize! Temas e imagens de fundos disponíveos no estilo cyberpunk.</p>
+<p> Customize! Temas e imagens de fundos disponíveis no estilo cyberpunk.</p>
 
 #
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto ainda está em desenvolvimento, acompanhe o meu progresso:
 
 - [x] Homepage
 - [ ] Tela de login
