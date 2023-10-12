@@ -1,0 +1,61 @@
+#cadastro{
+    background-color: var(--night);
+    color: var(--lavender);
+
+    height: calc(100vh - 70px);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formcadastro{
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    flex-direction: column;
+}
+
+.formcadastro h1{
+    font-size: 40px;
+}
+
+.formcadastro input{
+    transition: ease all 0.2s;
+    width: 300px;
+    color: var(--lavender);
+    border: none;
+    background-color: var(--night);
+    border-bottom: 1px solid var(--lavender);
+
+    padding: 10px 60px 10px 15px;
+}
+
+.formcadastro input:focus{
+    border-bottom: 1px solid var(--phlox);
+    box-shadow: 0px 10px 15px -15px rgba(192,82,241,1);
+}
+
+.formcadastro textarea:focus, 
+.formcadastro input:focus{
+    outline: none;
+}
+
+.formcadastro button{
+    display: flex;
+    gap: 15px;
+
+    border-radius: 54.916px;
+    background: var(--gradientePurple);
+    border: none;
+    padding: 10px 35px;
+    color: var(--lavender);
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.formcadastro span{
+    font-size: 14px;
+}
