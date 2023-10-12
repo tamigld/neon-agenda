@@ -23,7 +23,7 @@ export default function Cadastro(){
                     style={{
                         color: "var(--lavender)"
                     }}
-                    to={"/cadastro"}
+                    to={"/login"}
                      >Faça login</Link>
                 </span>
             </form>
