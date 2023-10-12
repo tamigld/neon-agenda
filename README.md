@@ -13,10 +13,11 @@
     <a href="https://github.com/tamigld/neon-agenda"><strong>Explore os docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/tamigld/neon-agenda">Ver demo</a>
-    .
+    <a target="_blank" href="https://github.com/tamigld/neon-agenda">Ver demo</a>
+    -
+    <a target="_blank" href="https://www.figma.com/proto/KPPhuo07WBBLwdTE0nHrMs/NeonAgenda?type=design&node-id=209-64&t=JxsQ4kSVLnlVFpkY-1&scaling=scale-down-width&page-id=209%3A63&starting-point-node-id=209%3A64&mode=design">Ver protótipo de alta fidelidade</a>
+    -
     <a href="https://github.com/tamigld/neon-agenda/issues">Reportar Bug</a>
-    .
   </p>
 </p>
 
@@ -41,7 +42,24 @@ O NeonAgenda é um inovador aplicativo web de gerenciamento de tarefas que combi
 <h4>🔎 Pesquisa e Filtros Avançados </h4>
 <p> Localize rapidamente tarefas específicas com nossa funcionalidade de pesquisa e filtros intuitivos!</p>
 
+<h4>🖌 Customização </h4>
+<p> Customize! Temas e imagens de fundos disponíveos no estilo cyberpunk.</p>
+
 #
+
+### Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [x] Homepage
+- [ ] Tela de login
+- [ ] Tela de cadastro
+- [ ] Área do usuário
+- [ ] Área do usuário - configurações
+- [ ] Área do usuário - alterar tema
+- [ ] Área do usuário - alterar imagem de fundo
+
+##
 
 <h3 align="left">🛠 Criado com</h3>
 
