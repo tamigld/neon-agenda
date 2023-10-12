@@ -1,0 +1,30 @@
+.card{
+    width: 50%;
+    height: 300px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    padding: 40px;
+    gap: 15px;
+    border-radius: 30px;
+
+    background-color: var(--lavender);
+}
+
+.card h3{
+    text-align: center;
+    background-image: var(--gradienteBlue);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 25px;
+}
+
+.card p{
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+}

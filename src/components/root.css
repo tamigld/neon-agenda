@@ -1,0 +1,9 @@
+:root{
+    --montserrat: 'Montserrat', sans serif;
+    --night: #0E0E0F;
+    --lavender: #EDE9F8;
+    --tekhelet: #4C3B8B;
+    --phlox: #C052F1;
+    --gradientePurple: linear-gradient(90deg, #A684F4 0%, #4C3B8B 100%);
+    --gradienteBlue: linear-gradient(90deg, #3872D7 0%, #25346F 100%);
+}

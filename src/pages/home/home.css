@@ -1,0 +1,187 @@
+.homePrimeira{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    height: 750px;
+
+    color: var(--lavender);
+
+    
+    background: linear-gradient(-45deg,rgba(213, 116, 255, 0.3), rgb(192, 82, 241, 0.3) ,rgba(83, 83, 209, 0.5), rgba(53, 53, 136, 0.5));
+    background-color: var(--night);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+
+    gap: 15px;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.homePrimeira>h1{
+    font-weight: 400;
+}
+
+.homePrimeira>img{
+    width: 500px;
+}
+
+.homePrimeira>span{
+    opacity: 0.5;
+    font-weight: 300;
+}
+
+/* ----------------- */
+
+.recursos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 150px 0;
+}
+
+.recursos>h3,
+.features>h1{
+    text-align: center;
+    color: var(--lavender);
+}
+
+.features>h1{
+    padding-top: 30px;
+    font-size: 40px;
+}
+
+.recursos>h3{
+    padding-bottom: 50px;
+    font-weight: 400;
+    width: 65%;
+}
+
+.recursos hr{
+    width: 40%;
+    border: 1px solid var(--tekhelet);
+}
+
+main{
+    background-color: var(--night);
+}
+
+main .cards{
+    padding: 40px 100px 0 100px;
+
+    display: flex;
+    flex-direction: row;
+
+
+    gap: 40px;
+}
+
+/* ---------------------------------- */
+
+.homeTerceira{
+
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/neon-agenda.appspot.com/o/bg.png?alt=media&token=b61f3ce1-d776-4266-9b99-edc4b80ebe62&_gl=1*k4zdv*_ga*OTkzMDE5MjQ4LjE2OTM2Nzk1Mjk.*_ga_CW55HF8NVT*MTY5NzA3ODU5Ni4yNy4xLjE2OTcwNzkwODkuNTcuMC4w");
+    background-position: center;
+    background-size: contain;
+
+    height: 600px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    gap: 30px;
+
+    color: var(--lavender);
+}
+
+.homeTerceira>h3{
+    font-weight: 600;
+    font-size: 26px;
+    width: 50%;
+
+    text-align: center;
+}
+
+.botaoHome{
+    width: 260px;
+    color: var(--lavender);
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+
+    font-size: 20px;
+
+    padding: 15px 40px;
+    border-radius: 91.026px;
+    border: 2px solid var(--phlox, #C052F1);
+    background: rgba(255, 255, 255, 0.01);
+    box-shadow: 0px 4px 22px 0px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(20px);
+}
+
+/* ------------------------------- */
+
+footer{
+    padding: 150px 100px 70px 100px;
+    display: flex;
+    justify-content: space-between;
+    color: var(--lavender);
+}
+
+.descricao{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+    width: 55%;
+}
+
+.descricao div:nth-child(1){
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.descricao div:nth-child(1) h4{
+    font-weight: 400;
+}
+
+.descricao div:nth-child(2){
+    display: flex;
+    flex-direction: column;
+
+    gap: 15px;
+}
+
+.descricao div:nth-child(2) h4{
+    font-size: 18px;
+}
+
+.redes{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.redes a{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    text-decoration: none;
+    color: var(--lavender);
+}
