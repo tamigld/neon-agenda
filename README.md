@@ -13,9 +13,9 @@
     <a href="https://github.com/tamigld/neon-agenda"><strong>Explore os docs »</strong></a>
     <br/>
     <br/>
-    <a target="_blank" href="https://github.com/tamigld/neon-agenda">Ver demo</a>
+    <a href="https://github.com/tamigld/neon-agenda" target="_blank">Ver demo</a>
     -
-    <a target="_blank" href="https://www.figma.com/proto/KPPhuo07WBBLwdTE0nHrMs/NeonAgenda?type=design&node-id=209-64&t=JxsQ4kSVLnlVFpkY-1&scaling=scale-down-width&page-id=209%3A63&starting-point-node-id=209%3A64&mode=design">Ver protótipo de alta fidelidade</a>
+    <a href="https://www.figma.com/proto/KPPhuo07WBBLwdTE0nHrMs/NeonAgenda?type=design&node-id=209-64&t=JxsQ4kSVLnlVFpkY-1&scaling=scale-down-width&page-id=209%3A63&starting-point-node-id=209%3A64&mode=design" target="_blank">Ver protótipo de alta fidelidade</a>
     -
     <a href="https://github.com/tamigld/neon-agenda/issues">Reportar Bug</a>
   </p>
