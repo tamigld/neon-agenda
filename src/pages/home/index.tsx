@@ -51,7 +51,7 @@ export default function Homepage(){
                 <h3>
                 Registre-se ou faça login para começar a moldar o seu futuro com NeonAgenda.
                 </h3>
-                <Link className='botaoHome' to={"/"}>Login</Link>
+                <Link className='botaoHome' to={"/login"}>Login</Link>
                 <Link className='botaoHome' to={"/"}>Cadastre-se</Link>
             </section>
             <footer>

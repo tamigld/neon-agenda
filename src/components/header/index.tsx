@@ -15,7 +15,7 @@ export default function Header(){
             <nav>
                 <Link to={"/"}>Homepage</Link>
                 <Link to={"/"}>Cadastre-se</Link>
-                <Link id='linkLogin' to={"/"}>Login</Link>
+                <Link id='linkLogin' to={"/login"}>Login</Link>
             </nav>
         </header>
     )
