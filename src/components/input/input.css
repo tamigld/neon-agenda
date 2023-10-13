@@ -1,0 +1,20 @@
+input{
+    transition: ease all 0.2s;
+    width: 300px;
+    color: var(--lavender);
+    border: none;
+    background-color: var(--night);
+    border-bottom: 1px solid var(--lavender);
+
+    padding: 10px 60px 10px 15px;
+}
+
+input:focus{
+    border-bottom: 1px solid var(--phlox);
+    box-shadow: 0px 10px 15px -15px rgba(192,82,241,1);
+}
+
+textarea:focus, 
+input:focus{
+    outline: none;
+}

@@ -22,7 +22,7 @@
     font-size: 40px;
 }
 
-.formcadastro input{
+/* .formcadastro input{
     transition: ease all 0.2s;
     width: 300px;
     color: var(--lavender);
@@ -41,7 +41,7 @@
 .formcadastro textarea:focus, 
 .formcadastro input:focus{
     outline: none;
-}
+}*/
 
 .formcadastro button{
     display: flex;
@@ -58,4 +58,4 @@
 
 .formcadastro span{
     font-size: 14px;
-}
+} 
