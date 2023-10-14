@@ -1,4 +1,5 @@
-input{
+#form__group input{
+    display: block;
     transition: ease all 0.2s;
     width: 300px;
     color: var(--lavender);
@@ -7,14 +8,35 @@ input{
     border-bottom: 1px solid var(--lavender);
 
     padding: 10px 60px 10px 15px;
+    font-size: 16px;
 }
 
-input:focus{
+#form__group input::placeholder{
+    font-style: var(--montserrat);
+    font-size: 16px;
+}
+
+#form__group input:focus{
     border-bottom: 1px solid var(--phlox);
     box-shadow: 0px 10px 15px -15px rgba(192,82,241,1);
 }
 
-textarea:focus, 
-input:focus{
+#form__group textarea:focus, 
+#form__group input:focus{
     outline: none;
+}
+
+.form__label {
+    margin-top: 10px;
+    display: block;
+    transition: all 0.3s;
+    transform: translateY(0rem);
+}
+
+  
+.form__input:placeholder-shown + .form__label {
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform: translateY(-4rem);
+    transform: translateY(1rem);
 }
