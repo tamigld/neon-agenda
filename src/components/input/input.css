@@ -32,7 +32,7 @@
     align-items: center;
     gap: 5px;
     transition: all 0.3s;
-    transform: translateY(0rem);
+    transform: translateY(-4.5rem);
 }
 
   
@@ -40,7 +40,7 @@
     opacity: 0;
     visibility: hidden;
     -webkit-transform: translateY(-4rem);
-    transform: translateY(1rem);
+    transform: translateY(-2rem);
 }
 
 .form__label>img{
