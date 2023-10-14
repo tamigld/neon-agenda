@@ -26,9 +26,11 @@
     outline: none;
 }
 
-.form__label {
+.form__label{
     margin-top: 10px;
-    display: block;
+    display: flex;
+    align-items: center;
+    gap: 5px;
     transition: all 0.3s;
     transform: translateY(0rem);
 }
@@ -39,4 +41,9 @@
     visibility: hidden;
     -webkit-transform: translateY(-4rem);
     transform: translateY(1rem);
+}
+
+.form__label>img{
+    width: 12px;
+    height: 12px;
 }
