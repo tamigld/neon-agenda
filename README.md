@@ -57,8 +57,8 @@ O projeto ainda está em desenvolvimento, acompanhe o meu progresso:
 
 ### Web
 - [x] Homepage
-- [ ] Tela de login
-- [ ] Tela de cadastro
+- [x] Tela de login
+- [x] Tela de cadastro
 - [ ] Área do usuário
 - [ ] Área do usuário - configurações
 - [ ] Área do usuário - alterar tema
